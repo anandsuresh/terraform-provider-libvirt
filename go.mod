@@ -1,4 +1,4 @@
-module github.com/dmacvicar/terraform-provider-libvirt
+module github.com/anandsuresh/terraform-provider-libvirt
 
 require (
 	github.com/c4milo/gotoolkit v0.0.0-20170704181456-e37eeabad07e // indirect
