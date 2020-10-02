@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/dmacvicar/terraform-provider-libvirt/libvirt/helper/suppress"
+	"github.com/anandsuresh/terraform-provider-libvirt/libvirt/helper/suppress"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	libvirt "github.com/libvirt/libvirt-go"
 	libvirtxml "github.com/libvirt/libvirt-go-xml"
